@@ -1,0 +1,21 @@
+---
+title: "cNMTF"
+author: '[Luis G. Leal](https://github.com/lgl15) at [Imperial College London](http://www.imperial.ac.uk),
+  16/04/18'
+output:
+  html_document:
+    fig_width: 1
+  pdf_document: default
+---
+
+----
+
+You can download the development version of this R package for free on [Github](https://github.com/lgl15/cnmtf).
+
+
+----
+
+
+**Examples:**
+
+

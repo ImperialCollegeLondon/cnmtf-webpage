@@ -1,0 +1,17 @@
+name: "R Markdown Websites Tutorial"
+navbar:
+  title: "HOME"
+  left:
+    - text: "Pre-processing your input data"
+      href: preprocessing.html
+    - text: "Running cNMTF"
+      href: running.html
+    - text: "Analising results"
+      href: analising.html
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+#    include:
+#      after_body: _footer.html
