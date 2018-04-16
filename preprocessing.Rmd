@@ -1,5 +1,5 @@
 ---
-title: "Pre-processing your input data"
+title: "Your input data"
 output:
   html_document:
     toc: true
